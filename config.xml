@@ -91,4 +91,5 @@
     </plugin>
     <engine name="ios" spec="4.5.4" />
     <plugin name="cordova-plugin-geolocation" spec="^4.0.1" />
+    <allow-navigation href="http://192.168.31.57:8100" />
 </widget>
