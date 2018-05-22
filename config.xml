@@ -89,7 +89,8 @@
         <variable name="UPDATE_API" value="https://api.ionicjs.com" />
         <variable name="MAX_STORE" value="2" />
     </plugin>
-    <engine name="ios" spec="4.5.4" />
     <plugin name="cordova-plugin-geolocation" spec="^4.0.1" />
     <allow-navigation href="http://192.168.31.57:8100" />
+    <engine name="ios" spec="4.5.4" />
+    <engine name="android" spec="~7.0.0" />
 </widget>
